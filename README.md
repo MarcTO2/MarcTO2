@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62RxaNMhWLFJ3ntgX3ueN68bzk5kGj1txzqE6P8Q9B8D50z_elLz_Nqda73FHCluntUY&usqp=CAU.jpg)](https://MarcTO2)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)](https://MarcTO2)
 
 <h1 align="center">Hi 👋, I'm Marcel</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
