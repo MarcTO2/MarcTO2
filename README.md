@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Marcel</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBxNXZzdjJ1dWg0em9jM2dtazVzM2VmaDBuM2xlaDZpazJhZmtleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcto2&label=Profile%20views&color=0e75b6&style=flat" alt="marcto2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcto2" alt="marcto2" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **mrclabsalom@gmail.com**
 
-- ⚡ Fun fact: **I'm funny I guess**
+- ⚡ Fun fact **I'm funny I guess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
