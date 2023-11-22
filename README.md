@@ -1,7 +1,7 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)](https://MarcTO2)
 
 <h1 align="center">Hi 👋, I'm Marcel</h1>
-<h3 align="center">A passionate full-stack developer from Kenya</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBxNXZzdjJ1dWg0em9jM2dtazVzM2VmaDBuM2xlaDZpazJhZmtleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
