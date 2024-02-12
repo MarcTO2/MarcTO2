@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I'm funny I guess**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://warm-snickerdoodle-1d2de3.netlify.app/</h3>
 <p align="left">
 </p>
 
