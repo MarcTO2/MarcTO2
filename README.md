@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I'm funny I guess**
 
-<h3 align="left">Connect with me: "Coming Soon"</h3>
+<h3 align="left">Connect with me: "https://portfolio-tau-one-s8nrf7zbpp.vercel.app/"</h3>
 <p align="left">
 </p>
 
