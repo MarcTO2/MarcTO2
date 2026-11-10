@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcto2&label=Profile%20views&color=0e75b6&style=flat" alt="marcto2" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Quantum Programming**
 
 - 💬 Ask me about **Web Development**
 
